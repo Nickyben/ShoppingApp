@@ -1,1 +1,0 @@
-GET THE NODE MODULES FOLDER FROM GreatPlacesApp(Native)'
